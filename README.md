@@ -14,7 +14,7 @@ Our method consists of two components:
 
 The system overview is illustrated in the following figure.
 <p align="center">
-  <img src="https://https://github.com/weisgroup/RFSift/tree/main/figs/overview.png">
+  <img src="https://github.com/weisgroup/RFSift/raw/main/figs/overview.png">
 </p>
 
 ## System implementation and real-world tests
@@ -51,5 +51,5 @@ It shows that ORB-SLAM3 works fine in texture-rich areas but drifts in the textu
 
 ## Demo video
 
-<a href="https://youtu.be/fZGDbqSVW1k" target="_blank"><img src="https://https://github.com/weisgroup/RFSift/tree/main/figs/demo.jpeg"
+<a href="https://youtu.be/fZGDbqSVW1k" target="_blank"><img src="https://github.com/weisgroup/RFSift/raw/main/figs/demo.jpeg"
 alt="Sift" width="320" height="240" border="10" /></a>
