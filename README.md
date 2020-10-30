@@ -28,7 +28,7 @@ We implement RFSift on an Intel NUC. A [Mynt Eye S 1040-120/mono camera](https:/
 In the indoor test site, we deploy one UWB node on the site's edge to assist the navigation. The camera is facing the white wall of the site to ensure the textureless challenge. We compare the performance of RFSift and [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) in the following figure.
 
 <p align="center">
-  <img src="figs/indoor.png">
+  <img src="https://github.com/weisgroup/RFSift/blob/main/figs/indoor.png">
 </p>
 
 Below is a summary of performance after 10 rounds of flight. It shows that RFSift performs the best in textureless scenes in terms of the root mean square (RMS) of absolute trajectory error (ATE), compared with [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) and [VINS-FUSION](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion).
