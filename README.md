@@ -51,4 +51,4 @@ It shows that ORB-SLAM3 works fine in texture-rich areas but drifts in the textu
 
 ## Demo video
 
-<a href="https://youtu.be/fZGDbqSVW1k" target="_blank"><img src="figs/demo.jpeg" alt="Sift" width="320" height="240" border="10" /></a>
+<a href="https://youtu.be/S5VIiH1Nw6U" target="_blank"><img src="figs/demo.jpeg" alt="Sift" width="320" height="240" border="10" /></a>
