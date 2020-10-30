@@ -10,7 +10,7 @@ This project page contains:
 ## The proposed method
 Our method consists of two components:
 - **RF-sifting** algorithm that sifts best visual features by leveraging 3D UWB measurements.
-- **RF-visual-inertial sensor fusion** that achieves robust state estimation by fusing measurements from multiple sensors with contemplinary advantages.
+- **RF-visual-inertial sensor fusion** that achieves robust state estimation by fusing measurements from multiple sensors with complementary advantages.
 
 The system overview is illustrated in the following figure.
 <p align="center">
