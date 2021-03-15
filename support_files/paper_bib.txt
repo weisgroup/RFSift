@@ -1,0 +1,6 @@
+@inproceedings{zhang2021conquering,
+  Author = {Shengkai Zhang and Sheyang Tang and Wei Wang and Tao Jiang and Qian Zhang},
+  Title = {Conquering Textureless with RF-referenced Monocular Vision for MAV State Estimation},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  Year = {2021}
+}
